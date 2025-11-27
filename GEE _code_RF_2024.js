@@ -1,4 +1,8 @@
-// 
+// Add necessary files 
+     //1. {ee.Image} image Input Landsat SR image
+     //2. Add ROI 
+     //3. Input the necessary LULC class points as Feature collection
+
 // Cloud Mask Function
 function cloudMask(image){
   var qa = image.select('QA_PIXEL');
