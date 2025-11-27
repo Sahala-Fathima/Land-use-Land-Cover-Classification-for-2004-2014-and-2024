@@ -13,14 +13,3 @@ Input Data: Landsat (2004 & 2014), Sentinel/Landsat (2024)
 3. Random Forest classification
 4. Accuracy assessment (confusion matrix & overall accuracy)
 5. Export of classified maps
-
-# GEE Code Snapshot (2004):
-https://code.earthengine.google.com/2585936209fd0a171b394f5e6e933967
-
-https://code.earthengine.google.com/?scriptPath=users%2Fsahlafathima981%2FLST%3ALULC_SA_Dec2004_RF1
-
-# GEE Code Snapshot (2014):
-https://code.earthengine.google.com/241ac7aadb33c6ffa06a0134f404fea1
-
-# GEE Code Snapshot (2024):
-https://code.earthengine.google.com/d02bce6848b21e2245e515a04ef44362
